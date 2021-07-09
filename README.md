@@ -1,4 +1,4 @@
-# eWallet-Ui_using_SwiftU
+# eWallet-Ui
 
 sample outPut :-
 
